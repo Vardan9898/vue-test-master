@@ -8,3 +8,12 @@ body {
 .dragArea {
     display: contents;
 }
+.svg-warning {
+    color: #F3983F;
+}
+.green {
+    background-color: #1B998B;
+}
+.text-green {
+    color: #1B998B;
+}
